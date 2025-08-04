@@ -46,9 +46,7 @@ Over 30% of the records had missing values for `Location` and `Payment Method`, 
 
 
 
-## Author
-
-**Rania OUTAYEB**
-💼 Junior Data Analyst  
-📧 [Your email or LinkedIn if you want to include it]
-
+## 👤 Author
+Rania OUTAYEB
+💼 Data Analyst Trainee  
+[LinkedIn](https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](outayeb.rania@gmail.com)
